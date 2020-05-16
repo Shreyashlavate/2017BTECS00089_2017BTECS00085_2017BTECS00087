@@ -8,6 +8,10 @@ Project is developed using python and opencv . machine learning is not used to d
 Imutils-
 A series of convenience functions to make basic image processing functions such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and both Python 2.7 and Python 3.
 
+Input image-
+![Image description](master/car2.jpg)
+
+
 Thresholding
 Canny edge detection
 dilated image

@@ -38,7 +38,7 @@ Final output
 Demo video
 
 Google drive link for demo
-![]https://drive.google.com/file/d/1DYJcuyZl_e02fIqRmaf-iI_9ZNgw2ooK/view?usp=drivesdk
+https://drive.google.com/file/d/1DYJcuyZl_e02fIqRmaf-iI_9ZNgw2ooK/view?usp=drivesdk
 
 
 

@@ -9,8 +9,8 @@ Imutils-
 A series of convenience functions to make basic image processing functions such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and both Python 2.7 and Python 3.
 
 Input image-
-![car 1](master/car2.jpg)
 
+![]2017BTECS00089_2017BTECS00085_2017BTECS00087/car2.jpg
 
 Thresholding
 Canny edge detection

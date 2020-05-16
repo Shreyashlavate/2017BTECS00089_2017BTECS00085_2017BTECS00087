@@ -28,3 +28,17 @@ dilated image
 plate detected
 
 ![](https://github.com/Shreyashlavate/2017BTECS00089_2017BTECS00085_2017BTECS00087/blob/master/plate_detedted.jpg)
+
+Final output
+
+![](https://github.com/Shreyashlavate/2017BTECS00089_2017BTECS00085_2017BTECS00087/blob/master/plate_detected.jpg)
+
+
+
+##Demo
+
+Google drive link for demo
+https://drive.google.com/file/d/1DYJcuyZl_e02fIqRmaf-iI_9ZNgw2ooK/view?usp=drivesdk
+
+
+

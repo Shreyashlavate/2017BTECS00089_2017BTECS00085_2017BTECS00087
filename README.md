@@ -12,6 +12,19 @@ Input image-
 
 ![](https://github.com/Shreyashlavate/2017BTECS00089_2017BTECS00085_2017BTECS00087/blob/master/car2.jpg)
 
+
 Thresholding
+
+![](https://github.com/Shreyashlavate/2017BTECS00089_2017BTECS00085_2017BTECS00087/blob/master/thresh.jpg)
+
 Canny edge detection
+
+![](https://github.com/Shreyashlavate/2017BTECS00089_2017BTECS00085_2017BTECS00087/blob/master/cn_edge.jpg)
+
 dilated image
+
+![](https://github.com/Shreyashlavate/2017BTECS00089_2017BTECS00085_2017BTECS00087/blob/master/dilated_img.jpg)
+
+plate detected
+
+![](https://github.com/Shreyashlavate/2017BTECS00089_2017BTECS00085_2017BTECS00087/blob/master/plate_detedted.jpg)

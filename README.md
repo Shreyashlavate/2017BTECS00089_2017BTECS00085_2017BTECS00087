@@ -1,7 +1,7 @@
 # 2017BTECS00089_2017BTECS00085_2017BTECS00087
 License plate detection
 
-Method
+Method- 
 Project is developed using python and opencv . machine learning is not used to detect number plate . It is based on contour in opencv . it's dosent give you numbers directly it's just highlights (gives you the coordinate ) the rectangular area of number plate in image.
 
 
@@ -31,7 +31,7 @@ plate detected
 
 Final output
 
-![](https://github.com/Shreyashlavate/2017BTECS00089_2017BTECS00085_2017BTECS00087/blob/master/plate_detected.jpg)
+![](https://github.com/Shreyashlavate/2017BTECS00089_2017BTECS00085_2017BTECS00087/blob/master/number_plate.jpg)
 
 
 

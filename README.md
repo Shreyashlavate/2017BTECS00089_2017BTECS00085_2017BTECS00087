@@ -10,7 +10,7 @@ A series of convenience functions to make basic image processing functions such 
 
 Input image-
 
-![]2017BTECS00089_2017BTECS00085_2017BTECS00087/car2.jpg
+![](master/car2.jpg)
 
 Thresholding
 Canny edge detection
